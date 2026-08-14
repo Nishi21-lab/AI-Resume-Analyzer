@@ -32,7 +32,6 @@ def generate_report_pdf(target_role, score, found_skills, matched, missing, road
     write_section("Missing Skills:", list(missing))
     write_section("Suggested Roadmap:", roadmap)
 
-    # embed the chart image
     pdf.set_font("Helvetica", "B", 12)
     pdf.cell(0, 8, "Match Score Chart:", ln=True)
     pdf.image(chart_image_path, x=10, w=180)
