@@ -14,6 +14,8 @@ LEARNING_RESOURCES = {
 }
 
 def generate_roadmap(missing_skills):
+    if not missing_skills:
+        return ["No roadmap required — your resume already covers all the skills for this role!"]
     roadmap = []
     for i, skill in enumerate(missing_skills, start=1):
         topic = LEARNING_RESOURCES.get(skill, f"Learn {skill} basics")
