@@ -1,4 +1,4 @@
 test_resume,expected_top_role,actual_top_role,match_score,comments
-Resume_A.docx,Data Analyst,,,
-Resume_B.docx,Machine Learning Engineer,,,
-Resume_C.docx,NLP Engineer,,,
+Resume_A.docx,Data Analyst,Data Analyst,44.04%,Matched as expected. All 5 required skills found, no skill gap.
+Resume_B.docx,Machine Learning Engineer,Machine Learning Engineer,32.2%,Matched as expected. Matched skills: python, machine learning, docker. Missing: scikit-learn, fastapi. Note: scikit-learn was present in resume text but not detected by skill_extractor — possible extraction bug.
+Resume_C.docx,NLP Engineer,NLP Engineer,44.4%,	Matched as expected. All 4 required skills found, no skill gap.
