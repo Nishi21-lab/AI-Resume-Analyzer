@@ -1,0 +1,4 @@
+test_resume,expected_top_role,actual_top_role,match_score,comments
+Resume_A.docx,Data Analyst,,,
+Resume_B.docx,Machine Learning Engineer,,,
+Resume_C.docx,NLP Engineer,,,

@@ -1,0 +1,27 @@
+skill,category
+python,programming
+sql,programming
+java,programming
+c++,programming
+pandas,data
+numpy,data
+excel,data
+power bi,data
+scikit-learn,ml
+machine learning,ml
+deep learning,ml
+tensorflow,ml
+pytorch,ml
+nlp,ml
+transformers,ml
+hugging face,ml
+opencv,cv
+cnn,cv
+yolo,cv
+fastapi,backend
+docker,tools
+git,tools
+github,tools
+llm,ai
+rag,ai
+apis,backend

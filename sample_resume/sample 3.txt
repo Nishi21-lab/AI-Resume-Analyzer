@@ -1,0 +1,15 @@
+Alex Kumar
+Email: alex.kumar@example.com
+
+Education:
+B.Tech Computer Science, PQR University
+
+Skills:
+Python, NLP, Transformers, Hugging Face
+
+Projects:
+- Built a sentiment analysis tool using transformers
+- Text summarization project using Hugging Face
+
+Experience:
+NLP Research Intern

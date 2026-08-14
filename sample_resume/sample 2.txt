@@ -1,0 +1,15 @@
+John Smith
+Email: john.smith@example.com
+
+Education:
+B.Tech Computer Science, ABC University
+
+Skills:
+Python, Machine Learning, scikit-learn, Docker
+
+Projects:
+- Built a fraud detection model using scikit-learn
+- Deployed ML model using Docker
+
+Experience:
+ML Intern at Tech Solutions
